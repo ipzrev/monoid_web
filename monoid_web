@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MONOID</title>
+    <link rel="stylesheet" href="reset.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <link rel="icon" type="image/png" href="images/favicon.png" />
+  <body>
+    <section class="s_1">
+      <div class="d_1"><h3>ПОЧТИ ВСЁ</h3></div>
+      <div class="d_2"><h1>MONOID</h1></div>
+      <div class="d_3"><h3>О ШРИФТЕ</h3></div>
+    </section>
+    <section class="s_2">
+      <div class="d_4"><h3>О ШРИФТЕ</h3></div>
+      <div class="d_5">
+        <p>
+          MONOID — ЭТО ШРИФТ, СОЗДАННЫЙ <br />
+          АНДРЕАСОМ ЛАРСЕНОМ В 2015 ГОДУ
+        </p>
+        <p>
+          ЕГО ОСНОВНОЕ НАЗНАЧЕНИЕ В ТОМ, ЧТОБЫ ЛЕКГО <br />
+          ОРИЕНТИРОВАТЬСЯ И НЕ ТЕРЯТЬСЯ В КОДЕ
+        </p>
+      </div>
+      <div class="d_6">
+        <h1>{</h1>
+        <h1>R</h1>
+      </div>
+      <div class="d_7">
+        <p>56°00′ С.Ш. 10°00′ В.Д (ДАНИЯ) — РОДИНА MONOID</p>
+      </div>
+      <div class="d_8"><img src="images/el.svg" alt="el" /></div>
+    </section>
+    <section class="s_3">
+      <div class="d_9"><h3>НАЧЕРТАНИЯ</h3></div>
+      <div class="d_10">
+        <p>
+          ЧЕТЫРЕ НАЧЕРТАНИЯ MONOID — ЧЕТЫРЕ СТОРОНЫ<br />
+          СВЕТА НА КОМПАСЕ: REGULAR, ITALIC, BOLD<br />
+          И RETINA
+        </p>
+        <p>
+          ОНИ ЗАДАЮТ НАПРАВЛЕНИЕ КОДУ, СОХРАНЯЯ<br />
+          ЧЁТКИЙ РИТМ И УВЕРЕННЫЙ КУРС
+        </p>
+      </div>
+      <div class="d_11">
+        <p>1</p>
+        <p>2</p>
+        <p>3</p>
+        <p>4</p>
+      </div>
+      <div class="d_12">
+        <p>BOLD</p>
+        <p class="regular">REGULAR</p>
+        <p class="retina">RETINA</p>
+        <p class="italic">ITALIC</p>
+      </div>
+    </section>
+    <section class="s_4">
+      <div class="d_13">
+        <h3>ЛИГАТУРЫ</h3>
+      </div>
+      <div class="d_14">
+        <p>
+          ЛИГАТУРЫ В MONOID ОБЪЕДИНЯЮТ ЧАСТО<br />
+          ВСТРЕЧАЮЩИЕСЯ СИМВОЛЫ В ЦЕЛЬНЫЕ ЗНАКИ
+        </p>
+        <p>
+          ОНИ ПРЕВРАЩАЮТ КОД В ЧИТАЕМУЮ,<br />
+          ПЛАВНУЮ КАРТУ ЛОГИКИ
+        </p>
+      </div>
+      <div class="d_15">
+        <h3>МОНОШИРИННОСТЬ</h3>
+      </div>
+      <div class="d_16">
+        <p>
+          КАЖДЫЙ СИМВОЛ ЗАНИМАЕТ ОДИНАКОВОЕ<br />
+          ПРОСТРАНСТВО ПО ГОРИЗОНТАЛИ
+        </p>
+        <p>
+          БЛАГОДАРЯ ЭТОМУ СТРОКИ КОДА ИДЕАЛЬНО<br />
+          ВЫРАВНИВАЮТСЯ, А СТРУКТУРА СТАНОВИТСЯ<br />
+          ВИЗУАЛЬНО ПРЕДСКАЗУЕМОЙ И УДОБНОЙ<br />
+          ДЛЯ ЧТЕНИЯ
+        </p>
+      </div>
+      <div class="d_17"><h3>!=</h3></div>
+      <div class="d_18"><h3><=</h3></div>
+      <div class="d_19"><h3>=></h3></div>
+      <div class="d_20"><h3>===</h3></div>
+    </section>
+    <section class="s_5">
+      <div class="d_21">
+        <h1>Ч</h1>
+        <h1>А</h1>
+        <h1>Щ</h1>
+        <h1>А</h1>
+      </div>
+      <div class="d_22"><p>W = 167 PX X 4</p></div>
+    </section>
+    <section class="s_6">
+      <div class="d_23"><h3>ОСНОВНЫЕ СИМВОЛЫ</h3></div>
+      <div class="d_24">
+        <p>Аа</p>
+        <p>Бб</p>
+        <p>Вв</p>
+        <p>Гг</p>
+        <p>Дд</p>
+        <p>Ее</p>
+        <p>Ёё</p>
+        <p>Жж</p>
+        <p>Зз</p>
+        <p>Ии</p>
+        <p>Йй</p>
+        <p>Кк</p>
+        <p>Лл</p>
+      </div>
+      <div class="d_25">
+        <p>Мм</p>
+        <p>Нн</p>
+        <p>Оо</p>
+        <p>Пп</p>
+        <p>Рр</p>
+        <p>Сс</p>
+        <p>Тт</p>
+        <p>Уу</p>
+        <p>Фф</p>
+        <p>Хх</p>
+        <p>Цц</p>
+        <p>Чч</p>
+        <p>Шш</p>
+      </div>
+      <div class="d_26">
+        <p>Щщ</p>
+        <p>Ъъ</p>
+        <p>Ыы</p>
+        <p>Ьь</p>
+        <p>Ээ</p>
+        <p>Юю</p>
+        <p>Яя</p>
+      </div>
+      <div class="d_27">
+        <p>0</p>
+        <p>1</p>
+        <p>2</p>
+        <p>3</p>
+        <p>4</p>
+        <p>5</p>
+        <p>6</p>
+        <p>7</p>
+        <p>8</p>
+        <p>9</p>
+      </div>
+    </section>
+    <section class="s_7">
+      <div class="d_28"><h3>ЯЗЫКИ</h3></div>
+      <div class="d_29">
+        <p>
+          MONOID ПОДДЕРЖИВАЕТ БОЛЕЕ 150 ЯЗЫКОВ.<br />
+          НЕТ ПОДДЕРЖКИ ТОЛЬКО КИТАЙСКОГО,<br />
+          КОРЕЙСКОГО И ЯПОНСКОГО ЯЗЫКОВ (CJK)
+        </p>
+      </div>
+      <div class="d_30"><h2>C</h2></div>
+      <div class="d_31"><h2>J</h2></div>
+      <div class="d_32"><h2>K</h2></div>
+    </section>
+    <section class="s_8">
+      <footer class="d_33">
+        <h4>СТУДЕНТ: ИЛИЯ ПУЗЫРЕВ (Б25ДЗ10)</h4>
+      </footer>
+    </section>
+  </body>
+</html>
